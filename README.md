@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![SohaibRaza github stats](https://github-readme-stats.vercel.app/api?username=SohaibRaza&show_icons=true&hide_border=true)
+
+
+- 🔭 I’m currently working on ReactJS, Node.js, Python, Deno
+- 🌱 I’m currently learning Docker, IoT
+- 📫 How to reach me: sohaibraza000@gmail.com
