@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ![nodejs](https://user-images.githubusercontent.com/7778803/101231623-498be580-36ce-11eb-81f1-cd0b6021f5db.png)
 ![express](https://user-images.githubusercontent.com/7778803/101231481-64aa2580-36cd-11eb-852f-988a7e32abd1.png)
-![nginx](https://user-images.githubusercontent.com/7778803/101231394-bd2cf300-36cc-11eb-8570-34f81ec44d55.png)
+![nginx](https://user-images.githubusercontent.com/7778803/101232124-78578b00-36d1-11eb-98c9-f882cfca9f7d.png)
 ![django](https://user-images.githubusercontent.com/7778803/101231587-13e6fc80-36ce-11eb-828c-26d30e003d7f.png)
 
 ![couchdb](https://user-images.githubusercontent.com/7778803/101231941-5dd0e200-36d0-11eb-91a9-030498ea5f39.png)
