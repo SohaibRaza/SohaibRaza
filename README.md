@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ![SohaibRaza github stats](https://github-readme-stats.vercel.app/api?username=SohaibRaza&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues&show_icons=true&hide_border=true) 
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=SohaibRaza&show_icons=true&hide_border=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,CONTRIBUTOR&hide=issues">
--->
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibRaza&hide_border=true&theme=tokyonight" >
+-->
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibRaza&hide_border=true&theme=monokai" >
 
 - 📫 How to reach me: sohaibraza000@gmail.com
 
