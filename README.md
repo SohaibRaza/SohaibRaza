@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibRaza&hide_border=true&theme=monokai" >
 
-- 📫 How to reach me: sohaibraza000@gmail.com
+- ### 📫 How to reach me: sohaibraza000@gmail.com
 
 
 ## Tools
